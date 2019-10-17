@@ -9,6 +9,8 @@
 import Foundation
 import CoreData
 
+// Syncing project.
+
 class EntryController {
     
     var entries: [Entry] {
